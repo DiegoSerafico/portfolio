@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(170, 215, 255);
+}
+
+.jumbotron {
+  background-color: azure;
+}
+
+.about img {
+  float: left;
+  display: block;
+  max-width: 50%;
+  max-height: 100%;
+  margin: 10px;
+  margin-left: 0px;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.about p {
+  font-size: 20px;
+}
+h2 {
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
