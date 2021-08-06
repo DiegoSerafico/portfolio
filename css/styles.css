@@ -34,6 +34,7 @@ h2 {
   text-align: center;
   font-style: italic;
   font-weight: bold;
+  text-decoration: underline;
 }
 
 .item {
@@ -41,7 +42,12 @@ h2 {
 }
 
 .card {
-  height: 400px;
+  height: 90%;
   margin: 10px;
   background-color: azure;
+}
+
+.orgs {
+  font-weight: bold;
+  font-style: italic;
 }
