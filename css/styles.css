@@ -52,22 +52,39 @@ h2 {
   font-style: italic;
 }
 
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.nav ul {
+  padding-left: 0px;
+}
+
 .nav li {
+  padding-left: 0px;
   list-style-type: none;
   float: left;
 }
 
 .nav a {
+  color: rgb(32, 151, 255);
   display: block;
   padding: 8px;
-  background-color: #dddddd;
+  background-color: azure;
 }
 
 .nav a:hover {
-  color: red;
-  background-color: white;
+  color: black;
+  background-color: darkgray;
 }
 
 .nav a:link {
    text-decoration: none; 
-  }
+}
+
+.nav a:active {
+  color: white;
+  background-color: black;
+}
