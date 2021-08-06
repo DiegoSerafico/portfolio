@@ -25,3 +25,7 @@ h2 {
   font-style: italic;
   font-weight: bold;
 }
+
+.item {
+  clear: both;
+}
