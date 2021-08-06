@@ -34,4 +34,5 @@ h2 {
 .card {
   height: 400px;
   margin: 10px;
+  background-color: azure;
 }
