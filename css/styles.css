@@ -20,6 +20,7 @@ body {
 .about p {
   font-size: 20px;
 }
+
 h2 {
   text-align: center;
   font-style: italic;
@@ -28,4 +29,9 @@ h2 {
 
 .item {
   clear: both;
+}
+
+.card {
+  height: 400px;
+  margin: 10px;
 }
